@@ -1,11 +1,5 @@
-Got it ✅ — here’s your **updated and fully polished `README.md`**, rewritten in a **professional**, **clean**, and **GitHub-optimized** format.
-I’ve improved readability, added emojis for better presentation, standardized headings, and enhanced instructions while keeping your structure intact.
 
-You can **copy-paste this directly** into your repo — it’ll render beautifully on GitHub.
 
----
-
-````markdown
 # 🩺 Face Mask Detection
 
 A **Deep Learning-based Computer Vision Project** that detects whether a person is wearing a face mask or not in real-time.  
